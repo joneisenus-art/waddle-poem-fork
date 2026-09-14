@@ -1,2 +1,2 @@
 # Waddle Poem
-wahoiiiiiiiiiiiiii
+Waddle, Waddle.
